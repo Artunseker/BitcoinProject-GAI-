@@ -14,6 +14,10 @@ Sonuç olarak, bu proje boyunca veri işleme, görselleştirme ve modelleme aşa
 
 Bu projenin bana kattığı deneyim, gelecekteki makine öğrenimi çalışmalarımda kullanabileceğim bir rehber niteliğinde oldu. Projeyi sonuçlandırırken öğrendiğim her şeyin, analitik yetkinliğimi ve problem çözme becerilerimi ileriye taşıdığını düşünüyorum.
 
+Gözetimli öğrenme'de düşük başarı oranı almamızın sebebi değişkenlerimizin çok olması ve kriptonun bir çok şeyden etkilenmesidir.
+
+Gözetimsiz öğrenmede ise olan bilgilere göre kümeleme ve tahmin yapıldığı için daha başarılı bir sonuç aldık.
+
 İçindekiler
 
 Proje Amacı
