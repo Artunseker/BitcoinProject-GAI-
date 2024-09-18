@@ -30,7 +30,7 @@ Bu proje, Bitcoin'in fiyat hareketlerini tahmin etmek ve çeşitli öğrenme alg
 
 Veri Kümesi
 
-Veri kümesi, 2018'den 2024'e kadar olan Bitcoin fiyat verilerini içermektedir. Fakat ben Kısıtlı RAM imkanından dolayı 30000 satırlık veri ile çalıştım gelecekte daha rahat bir şekilde kalan verileri dahil ederek çalışılabilir. Veriler şunları içerir:
+Veri kümesi, 2018'den 2024'e kadar olan Bitcoin fiyat verilerini içermektedir. Fakat ben Kısıtlı RAM imkanından dolayı sondan 30000 satırlık veri ile çalıştım gelecekte daha rahat bir şekilde kalan verileri dahil ederek çalışılabilir. Veriler şunları içerir:
 
 Açılış fiyatı
 Yüksek fiyat
