@@ -55,28 +55,30 @@ Modelleme
 Gözetimli Öğrenme
 Linear Regresyon:
 Model: Linear Regression
-Performans: Ortalama Kare Hata (MSE) hesaplandı.
+Performans: Ortalama Kare Hata (MSE) hesaplandı. 0.25
 
 Random Forest Regressor:
 Model: RandomForestRegressor
-Performans: Ortalama Kare Hata (MSE) hesaplandı.
+Performans: Ortalama Kare Hata (MSE) hesaplandı. 0.28
 
 Random Forest Classifier:
 Model: RandomForestClassifier
-Performans: Doğruluk Skoru ve ROC Eğrisi hesaplandı.
+Performans: Doğruluk Skoru ve ROC Eğrisi hesaplandı. 0.51
 
 XGBoost:
 Model: XGBClassifier
-Performans: Doğruluk Skoru ve Sınıflandırma Raporu hesaplandı.
+Performans: Doğruluk Skoru ve Sınıflandırma Raporu hesaplandı. 0.51
 
 Gözetimsiz Öğrenme
 KMeans Kümeleme:
 Model: KMeans
-Kümeler belirlendi ve Silhouette Skoru hesaplandı.
+Kümeler belirlendi ve Silhouette Skoru hesaplandı. 0.62
+(fakat sondan 30.000 veri ile çalışırsam 0.74 başarı skorumuz oluyor bunun sebebi Az veri olduğunda, kümeler arasında daha belirgin bir sınır var ve her küme içerisindeki veriler daha homojendir. Bu da skoru yükseltir.)
 
 DBSCAN Kümeleme:
 Model: DBSCAN
-Hiperparametre optimizasyonu yapıldı ve kümeler belirlendi.
+Hiperparametre optimizasyonu yapıldı ve kümeler belirlendi. 0.33
+
 Sonuçlar ve Değerlendirme
 
 Gözetimli Öğrenme: Farklı modellerin performansları karşılaştırıldı ve en uygun model belirlendi.
