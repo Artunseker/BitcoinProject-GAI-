@@ -1,4 +1,4 @@
-Bitcoin Fiyat Tahmin Projesi
+Bitcoin Fiyat Analiz ve Sinyal Projesi
 Kaggle Linki: https://www.kaggle.com/code/artunseker/gai-bitcoin-project
 
 Bitcoin fiyat tahminleri üzerine gerçekleştirdiğim veri analizi ve makine öğrenimi projesini adım adım paylaşacağım.
